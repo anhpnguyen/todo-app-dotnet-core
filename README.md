@@ -1,1 +1,1 @@
-# Todo app built with .NET core and Angular
+# Todo API built with .NET core 
